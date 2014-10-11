@@ -1,3 +1,6 @@
 [submodule "tools/hid_win32_interceptor"]
-	path = tools/hid_win32_interceptor
+	path = hid_win32_interceptor
 	url = https://github.com/jherico/HidInterceptor.git
+[submodule "ouvrt"]
+	path = ouvrt
+	url = https://github.com/pH5/ouvrt.git
