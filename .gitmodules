@@ -4,3 +4,6 @@
 [submodule "ouvrt"]
 	path = ouvrt
 	url = https://github.com/pH5/ouvrt.git
+[submodule "OpticalTracking"]
+	path = OpticalTracking
+	url = https://github.com/Doc-Ok/OpticalTracking.git
