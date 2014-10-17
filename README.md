@@ -7,11 +7,19 @@ This repository is dedicated to hacking the hardware of the Oculus Rift, and in 
 
 # Projects
 
+## OpticalTracking
+Snapshot of [@okreylos](https://twitter.com/okreylos)' optical tracking code w/ pre-release snapshot of upcoming Vrui-3.2-001
+* Linux
+* by [Doc-Ok](https://github.com/Doc-Ok)
+* GPLv2 licensed
+* see also: http://doc-ok.org/?p=1148
+
 ## RiftHacking-0.1
 C++ DK2 HMD interface (IMU/LED info) for Linux. See the [corresponding writeup](http://doc-ok.org/?p=1095) for documentation.
 * Linux
 * by [@okreylos](https://twitter.com/okreylos) 
 * GPLv2 licensed
+* see also: http://doc-ok.org/?p=1095
 
 ## ouvrt
 Linux tracking daemon (ouvrtd) and tools for interacting w/ the DK2 in Linux (like a ROM dumper)
